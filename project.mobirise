@@ -50,7 +50,7 @@
         "file": "@PROJECT_PATH@/fonts/AlexBrush-Regular/font.ttf"
       }
     ],
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/p-muslim-wedding-couple-128x169.png",
@@ -511,7 +511,7 @@
                 "title": "<br><br>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b style=\"font-style: italic;\">Muhammad Amirul Fahmi Bin Kasim<br></b>bersama<br><b><i>Ullifah Binti Masykuri</i></b><br><br>------------------------------<br><b><i>Nur Ainaa Binti Kassim</i></b><br>bersama<br><b><i>Firdaus Bin Nardi<br></i></b><br><br><b><i><br></i></b><br><b><i><br></i></b><br>",
+                "text": "<b style=\"font-style: italic;\">Muhammad Amirul Fahmi Bin Kasim<br></b>bersama<br><b><i>Ullifah Binti Masykuri</i></b><br><br>------------------------------<br><b><i>Nurul Ainaa Binti Kassim</i></b><br>bersama<br><b><i>Firdaus Bin Nardi<br></i></b><br><br><b><i><br></i></b><br><b><i><br></i></b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0",
                 "overlayColor": "#ff7f9f"
@@ -602,7 +602,7 @@
             "socialDisqus": false,
             "shortName": "",
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "overlay": true,
@@ -617,7 +617,7 @@
             "Extension"
           ],
           "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-w"
+          "_anchor": "facebook-comments-block-x"
         },
         {
           "alias": false,
